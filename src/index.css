@@ -17,5 +17,5 @@
   cursor: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='16' height='16'><circle cx='8' cy='8' r='6' stroke='%235044E5' stroke-width='2' fill='%23ffffff'/></svg>") 8 8, auto;
 }
 .custom-cursor a, .custom-cursor button, .custom-cursor [role='button'] {
-  cursor: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='16' height='16'><circle cx='8' cy='8' r='6' stroke='%235044E5' stroke-width='2' fill='%235044E5'/></svg>") 8 8, pointer;
+  cursor: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='16' height='16'><circle cx='8' cy='8' r='6' stroke='%235044E5' stroke-width='2' fill='%23EDEBFF'/></svg>") 8 8, pointer;
 }
