@@ -7,5 +7,5 @@ export default defineConfig({
   plugins: [react(),
     tailwindcss(),
   ],
-  base: '/Agency_UI/',
+  base: '/Agency_AI/',
 })
